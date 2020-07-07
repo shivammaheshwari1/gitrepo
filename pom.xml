@@ -20,7 +20,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
                 <url>http://localhost:8080/manager/text</url>
                 <server>TomcatServer</server>
                 <path>/hellosample</path>
-                <warFile>${project.build.directory}/hello-world-1.0.0</warFile>
+                <warFile>${project.build.directory}/hello-world-1.0.0.war</warFile>
         </configuration>
         </plugin>
 
